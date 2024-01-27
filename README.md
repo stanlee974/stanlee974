@@ -58,6 +58,6 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanlee974&show_icons=true&locale=en&theme=monokai" alt="stanlee974" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stanlee974&show_icons=true&locale=en&theme=monokai" alt="stanlee974 profile" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stanlee974&theme=monokai" alt="stanlee974 streak stats" />
 </p>
