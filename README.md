@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stanley</h1>
 <h2 align="center">Software architect and software craftsmanship coach</h2>
 <h3 align="center">🧑🏽‍💼 I’m currently working at Orange</h3>
-
+<a href="https://www.ow2.org/view/About/OW2_Introduction"><img src="https://www.ow2.org/bin/download/ow2-services/registration/OW2_Member_Icon.png" style="height:10em" alt="I'm OW2 member"/></a>
 <p align="left">
 <a href="https://www.linkedin.com/in/stanley-s-88a34b52" target="_blank">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?logo=linkedin&style=for-the-badge&logoColor=blue&labelColor=333333&color=333333" alt="Stanley S Linkedin profile" /></a>
