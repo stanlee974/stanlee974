@@ -11,7 +11,7 @@
 <h3 align="left">Want to contact me?</h3>
 <p align="left">
 <a href="https://twitter.com/2setech" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="2setech X profile" height="30" /></a>
+    <img align="center" src="./X.png" alt="2setech X profile" height="30" /></a>
 <a href="https://www.linkedin.com/in/stanley-s-88a34b52" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin profile" height="30" /></a>
 <a href="https://www.discord.com/invite/8kEeQYWt" target="_blank">
