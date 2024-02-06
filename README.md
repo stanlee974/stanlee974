@@ -31,7 +31,7 @@
      <a href="https://orange-opensource.github.io/uuv" target="_blank" rel="noreferrer">
         <img src="https://orange-opensource.github.io/uuv/img/uuv.png" alt="UUV website" width="40" height="40" /></a>  
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" alt="cypress" width="60" height="40" /></a>
+        <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-inverse.png" alt="cypress" width="60" height="40" /></a>
     <a href="https://playwright.dev" target="_blank" rel="noreferrer">
         <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright website" width="40" height="40" /></a>
     <a href="https://testing-library.com" target="_blank" rel="noreferrer">
