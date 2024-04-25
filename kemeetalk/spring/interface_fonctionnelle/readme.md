@@ -2,13 +2,10 @@
 
 ## Pourquoi
 
-Diminuer les cas de deadlock dûes aux appels d’API simultanés
-
-Eviter les erreurs fonctionnelles faux positifs (erreur API car données pas encore persistées)
-
-C’est sympa d’apprendre quelque chose de nouveau
-
-L’application n’était pas assez compliqué techniquement
+- Diminuer les cas de deadlock dûes aux appels d’API simultanés
+- Eviter les erreurs fonctionnelles faux positifs (erreur API car données pas encore persistées)
+- C’est sympa d’apprendre quelque chose de nouveau
+- L’application n’était pas assez compliqué techniquement
 
 ## Kesako
 
