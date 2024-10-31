@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Stanley</h1>
 <h2 align="center">Software architect and software craftsmanship coach</h2>
-<h3 align="center">🧑🏽‍💼 I’m currently working at Orange</h3>
+<h3 align="center">🧑🏽‍💼 I’m currently working at Nobltech consulting</h3>
 <a href="https://www.ow2.org/view/About/OW2_Introduction"><img src="https://www.ow2.org/bin/download/ow2-services/registration/OW2_Member_Icon.png" style="height:10em" alt="I'm OW2 member"/></a>
 <p align="left">
-<a href="https://www.linkedin.com/in/stanley-s-88a34b52" target="_blank">
+<a href="https://www.linkedin.com/in/stanley-servical" target="_blank">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?logo=linkedin&style=for-the-badge&logoColor=blue&labelColor=333333&color=333333" alt="Stanley S Linkedin profile" /></a>
 <a href="https://twitter.com/2setech" target="_blank"><img src="https://img.shields.io/twitter/follow/2setech?style=for-the-badge&logo=twitter&logoColor=blue&labelColor=333333&color=333333" alt="2setech X profile"/></a>
 </p>
